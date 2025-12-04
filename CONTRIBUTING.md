@@ -25,6 +25,9 @@ Instead, you may contribute:
 Under each event folder:
 ```
 cardano-summit/<year>/<city-country>/
+cardano-summit/<year>/<country-city>/
+cardano-summit/<year>/<country>/
+cardano-summit/<year>/<city>/
 ```
 you may add:
 - `index/` metadata files  
