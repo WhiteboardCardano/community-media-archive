@@ -99,6 +99,6 @@ You may share, remix, and use commercially **with attribution** & under same lic
 ## 🧑‍💻 Maintainers
 
 - **Whiteboard Cardano**  
-- **Yao Huynh**
+- **[Yao Huynh](https://github.com/NgocYao)**
 
 Open an Issue for support.
